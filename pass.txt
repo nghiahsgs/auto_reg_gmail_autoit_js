@@ -1,0 +1,1 @@
+document.querySelector('input[type="password"]').value='Nguyenngocyen97@';document.querySelectorAll('input[type="password"]')[1].value='Nguyenngocyen97@'
